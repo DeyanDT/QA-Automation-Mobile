@@ -18,4 +18,5 @@ Sauce Labs Demo Mobile App
 - Scroll and Open Product
 
 ## Run tests
+Make sure Appium server is running locally on http://127.0.0.1:4723
 pytest
